@@ -1,0 +1,329 @@
+# Translation of Plugins - Custom Related Posts - Stable (latest release) in Spanish (Spain)
+# This file is distributed under the same license as the Plugins - Custom Related Posts - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2024-12-05 14:52:15+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/4.0.1\n"
+"Language: es\n"
+"Project-Id-Version: Plugins - Custom Related Posts - Stable (latest release)\n"
+
+#: helpers/settings_structure.php:119
+msgid "Add the nopin attribute to the related posts images."
+msgstr "Añadir el atributo nopin a las imágenes de entradas relacionadas."
+
+#: helpers/settings_structure.php:118
+msgid "Disable pinning of images"
+msgstr "Desactiva la fijación de las imágenes"
+
+#: helpers/meta_box_content.php:76 assets/js/blocks/modal/index.js:97
+msgid "All Post Types"
+msgstr "Todos los tipos de contenido"
+
+#. Plugin Name of the plugin
+#: custom-related-posts.php assets/js/blocks/related-posts/index.js:7
+msgid "Custom Related Posts"
+msgstr "Custom Related Posts"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+#: custom-related-posts.php
+msgid "http://bootstrapped.ventures"
+msgstr "http://bootstrapped.ventures"
+
+#. Author of the plugin
+#: custom-related-posts.php
+msgid "Bootstrapped Ventures"
+msgstr "Bootstrapped Ventures"
+
+#: helpers/widget.php:11
+msgid "List the related posts for the active post. Will only show for single pages of the selected post types."
+msgstr "Listar las contenidos relacionados con el contenido activo. Solo se mostrará en las páginas individuales de los tipos de contenido seleccionados."
+
+#: helpers/blocks.php:17 helpers/output.php:16 helpers/widget.php:27
+msgid "Related Posts"
+msgstr "Contenidos relacionados"
+
+#: helpers/blocks.php:29 helpers/output.php:19 helpers/widget.php:30
+msgid "None found"
+msgstr "No se ha encontrado ninguno"
+
+#: helpers/meta_box_content.php:93 helpers/widget.php:34
+#: assets/js/blocks/modal/index.js:121
+#: assets/js/blocks/related-posts/edit.js:46
+#: assets/js/blocks/related-posts/edit.js:60
+msgid "Title"
+msgstr "Título"
+
+#: helpers/meta_box_content.php:92 helpers/widget.php:35
+#: assets/js/blocks/modal/index.js:120
+#: assets/js/blocks/related-posts/edit.js:61
+msgid "Date"
+msgstr "Fecha"
+
+#: helpers/widget.php:37 assets/js/blocks/related-posts/edit.js:63
+msgid "Random"
+msgstr "Aleatorio"
+
+#: helpers/widget.php:45
+msgid "Title:"
+msgstr "Título:"
+
+#: helpers/widget.php:49 assets/js/blocks/related-posts/edit.js:57
+msgid "Order By"
+msgstr "Ordenar por"
+
+#: helpers/widget.php:60 assets/js/blocks/related-posts/edit.js:68
+msgid "Order"
+msgstr "Orden"
+
+#: helpers/widget.php:71
+msgid "No related posts text"
+msgstr "Texto para cuando no haya contenidos relacionados"
+
+#: helpers/widget.php:73
+msgid "Leave blank to hide widget when there are no related posts."
+msgstr "Dejar en blanco para ocultar el widget cuando no haya contenidos relacionados."
+
+#: helpers/giveaway.php:20 static/getting_started_notice.php:3
+msgid "Hide this message"
+msgstr "Ocultar este mensaje"
+
+#: helpers/plugin_action_link.php:12
+msgid "Settings"
+msgstr "Ajustes"
+
+#: helpers/plugin_action_link.php:13 helpers/settings_structure.php:6
+msgid "Documentation"
+msgstr "Documentación"
+
+#: helpers/assets.php:37 helpers/meta_box_content.php:20
+msgid "Remove link to this post"
+msgstr "Eliminar enlace a este contenido"
+
+#: helpers/assets.php:38 helpers/meta_box_content.php:21
+msgid "Remove both link to and from this post"
+msgstr "Eliminar enlace a y desde este contenido"
+
+#: helpers/assets.php:39 helpers/meta_box_content.php:22
+msgid "Remove link from this post"
+msgstr "Eliminar enlace desde este contenido"
+
+#: helpers/settings_structure.php:7
+msgid "With Custom Related Posts you have full control. Manually set the related posts when editing one and display these related posts using the shortcode, block or widget."
+msgstr "Con Custom Related Posts tienes el control total. Establece manualmente los contenidos relacionados al editar cualquier contenido y muestra estos contenidos relacionados usando el shortcode, el bloque o el widget."
+
+#: helpers/settings_structure.php:13
+msgid "General"
+msgstr "General"
+
+#: helpers/settings_structure.php:18
+msgid "Post Types"
+msgstr "Tipos de contenido"
+
+#: helpers/settings_structure.php:19
+msgid "Which post types do you want to enable the Related Posts for?"
+msgstr "¿Para qué tipos de contenido quieres activar los contenidos relacionados?"
+
+#: helpers/settings_structure.php:26
+msgid "Cache Relations"
+msgstr "Guardar relaciones en la caché"
+
+#: helpers/settings_structure.php:27
+msgid "In normal cases you want this enabled for speed improvements."
+msgstr "En casos normales, activa esta opción para mejorar la velocidad."
+
+#: helpers/meta_box_content.php:83 helpers/settings_structure.php:35
+msgid "Search"
+msgstr "Buscar"
+
+#: helpers/settings_structure.php:37
+msgid "Settings to finetune the search for related posts in the backend."
+msgstr "Ajustes para afinar la búsqueda de contenidos relacionados en el área de administración."
+
+#: helpers/settings_structure.php:41
+msgid "Number of Posts"
+msgstr "Número de entradas"
+
+#: helpers/settings_structure.php:47
+msgid "Post Status"
+msgstr "Estado de la entrada"
+
+#: helpers/settings_structure.php:50
+msgid "Any"
+msgstr "Cualquiera"
+
+#: helpers/settings_structure.php:51
+msgid "Published only"
+msgstr "Publicada solamente"
+
+#: helpers/settings_structure.php:59 assets/js/blocks/sidebar/index.js:49
+msgid "Relations"
+msgstr "Relaciones"
+
+#: helpers/settings_structure.php:64
+msgid "Open in New Tab"
+msgstr "Abrir en una nueva pestaña"
+
+#: helpers/settings_structure.php:65
+msgid "Open links to related posts in a new tab."
+msgstr "Abrir los enlaces a contenidos relacionados en una nueva pestaña."
+
+#: helpers/settings_structure.php:73
+msgid "Template"
+msgstr "Plantilla"
+
+#: helpers/settings_structure.php:77
+msgid "Style"
+msgstr "Estilo"
+
+#: helpers/settings_structure.php:81
+msgid "Container"
+msgstr "Contenedor"
+
+#: helpers/settings_structure.php:84
+msgid "Normal"
+msgstr "Normal"
+
+#: helpers/settings_structure.php:85
+msgid "Unordered List"
+msgstr "Lista desordenada"
+
+#: helpers/settings_structure.php:86
+msgid "Ordered List"
+msgstr "Lista ordenada"
+
+#: helpers/settings_structure.php:92
+msgid "Image"
+msgstr "Imagen"
+
+#: helpers/settings_structure.php:95
+msgid "Don't show"
+msgstr "No mostrar"
+
+#: helpers/settings_structure.php:96
+msgid "Above Text"
+msgstr "Encima del texto"
+
+#: helpers/settings_structure.php:97
+msgid "Below Text"
+msgstr "Debajo del texto"
+
+#: helpers/settings_structure.php:98
+msgid "Floated Left"
+msgstr "Flotando a la izquierda"
+
+#: helpers/settings_structure.php:99
+msgid "Floated Right"
+msgstr "Flotando a la derecha"
+
+#: helpers/settings_structure.php:105
+msgid "Image Size"
+msgstr "Tamaño de imagen"
+
+#: helpers/settings_structure.php:106
+msgid "Enter a thumbnail name or specific size."
+msgstr "Introduce un nombre de tamaño de miniatura o un tamaño específico."
+
+#: helpers/settings_structure.php:131
+msgid "Advanced"
+msgstr "Avanzado"
+
+#: helpers/settings_structure.php:135
+msgid "CSS"
+msgstr "CSS"
+
+#: helpers/settings_structure.php:136
+msgid "This custom styling will be output on your website."
+msgstr "Este estilo personalizado se mostrará en tu web."
+
+#: helpers/settings_structure.php:147
+msgid "Import Relations"
+msgstr "Importar relaciones"
+
+#: helpers/settings_structure.php:151
+msgid "Import from XML"
+msgstr "Importar desde XML"
+
+#: addons/import-xml/import-xml.php:18 addons/import-xml/import-xml.php:30
+#: addons/import-xml/templates/before_importing.php:4
+#: addons/import-xml/templates/before_importing.php:14
+#: helpers/settings_structure.php:154
+msgid "Import XML"
+msgstr "Importar XML"
+
+#: helpers/ajax.php:72
+msgid "Current post"
+msgstr "Contenido actual"
+
+#: helpers/ajax.php:74 assets/js/blocks/modal/post.js:42
+msgid "Already linked"
+msgstr "Ya está enlazado"
+
+#: helpers/ajax.php:77 assets/js/blocks/modal/post.js:50
+msgid "To"
+msgstr "A"
+
+#: helpers/ajax.php:78 assets/js/blocks/modal/post.js:55
+msgid "Both"
+msgstr "Ambos"
+
+#: helpers/ajax.php:79 assets/js/blocks/modal/post.js:61
+msgid "From"
+msgstr "Desde"
+
+#: helpers/meta_box_content.php:27 assets/js/blocks/sidebar/relations.js:68
+msgid "This post links to"
+msgstr "Este contenido enlaza a"
+
+#: helpers/meta_box_content.php:29
+msgid "This post gets links from"
+msgstr "Este contenido está enlazado desde"
+
+#: helpers/meta_box_content.php:64
+msgid "Add Relation"
+msgstr "Añadir relación"
+
+#: helpers/meta_box_content.php:83
+msgid "Search Term"
+msgstr "Término de la búsqueda"
+
+#: helpers/meta_box_content.php:86
+msgid "Please enter a search term"
+msgstr "Por favor, introduce un término de búsqueda"
+
+#: helpers/meta_box_content.php:87
+msgid "No posts found"
+msgstr "No se han encontrado contenidos"
+
+#: helpers/meta_box_content.php:91 assets/js/blocks/modal/index.js:119
+msgid "Post Type"
+msgstr "Tipo de contenido"
+
+#: helpers/meta_box_content.php:94 assets/js/blocks/modal/index.js:122
+msgid "Link"
+msgstr "Enlace"
+
+#: addons/import-xml/templates/before_importing.php:5
+msgid "Before importing"
+msgstr "Antes de importar"
+
+#: addons/import-xml/templates/before_importing.php:7
+msgid "It's a good idea to backup your WP database before using the import feature."
+msgstr "Es una buena idea hacer una copia de seguridad de la base de datos de tu WP antes de usar la función de importación."
+
+#. Description of the plugin
+#: custom-related-posts.php
+msgid "Manually define related posts for any custom post type"
+msgstr "Define manualmente los contenidos relacionados para cualquier tipo de contenido personalizado"
+
+#: helpers/widget.php:40
+msgid "ascending"
+msgstr "ascendente"
+
+#: helpers/widget.php:41
+msgid "descending"
+msgstr "descendente"

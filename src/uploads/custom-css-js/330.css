@@ -1,0 +1,66 @@
+<!-- start Simple Custom CSS and JS -->
+<style type="text/css">
+#infobar{
+
+    display: grid;
+
+    grid-template-columns: repeat(3, 1fr);
+
+    width: 100%;
+ 
+    background-color: #003f77;
+
+    font-family: Open Sans, Arial, sans-serif;
+
+    font-size: 1rem;
+
+    font-weight: 600;
+
+    color:white;
+
+    align-items: center;
+
+    justify-items: center;
+
+    line-height: 1em;
+
+    padding: 8px 0px;
+
+}
+ 
+.divTlf{
+
+    display:grid;
+
+}
+
+h1{
+
+	color:#F06522 !important;
+
+	max-width: var(--wp--style--global--content-size);
+
+	margin-left:0 !important;
+
+}
+h2,h3,h4,h5{
+	color:#F06522 !important;
+}
+
+.entry-title{
+	color: #F06522 !important;
+}
+.entry-header{
+	color: #F06522 !important;
+}
+h1.entry-title {
+	color: #F06522 !important;
+}
+a.elementor-item.elementor-item-active{
+	color: #F06522 !important;
+}
+
+ 
+
+</style>
+<!-- end Simple Custom CSS and JS -->
