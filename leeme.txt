@@ -5,7 +5,6 @@ Quienes somos…
 Que hacemos…
 	Videos
 
-Buzón email
 ¿Sabias que…?
 Calenario
 	Que puedo hacer …
@@ -13,11 +12,11 @@ Calenario
 Actas…
 
 
-
+colores logo
+ naranja : #F06522 
+ azul: 	#1986c6
 
 	
-
-
 Columna noticias (home)
 Alertas…
 
